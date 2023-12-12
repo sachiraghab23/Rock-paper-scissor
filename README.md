@@ -6,4 +6,4 @@ This game is created from scratch using _HTML, CSS, JavaScript_
 <br>
 Click this link to play and get your childhood memory back.
 <br>
-[play]()
+[play](https://sachiraghab23.github.io/Rock-paper-scissor/)
